@@ -23,8 +23,7 @@
 |   |_| ||       ||   |  | ||       |
 |_______||_______||___|  |_||_______|
 
-```
-
+`~`~`~`~`~`~
 
 Today we're talking about Git. Git's a tool for sharing code. It's used by *real* industry peoples 
 and is the most common tool of its genre.
