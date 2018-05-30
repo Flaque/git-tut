@@ -1,6 +1,7 @@
 # Git
-
+JUDY has edited the file 
 ```
+This is fun, LRO
  _______  ___  _______               
 |       ||   ||       |              
 |    ___||   ||_     _|              
